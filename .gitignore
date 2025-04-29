@@ -1,0 +1,47 @@
+# 실행 파일 및 빌드 아티팩트
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# Visual Studio 전용
+*.sln
+*.vcxproj*
+*.vcproj*
+*.user
+*.filters
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.db
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# 빌드 폴더
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# 기타 자동 생성 폴더
+.vs/
+GeneratedFiles/
+
+# OS 별 불필요한 파일
+.DS_Store
+Thumbs.db
+
+# 백업 파일
+*.bak
+*.swp
+*~
