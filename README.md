@@ -39,7 +39,7 @@
 
 - **Step 0. 홈 화면**
     
-    ![홈화면.PNG](./README-asset/홈.png)
+    ![홈.PNG](./README-asset/홈.png)
 
 
 
