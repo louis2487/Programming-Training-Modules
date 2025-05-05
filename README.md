@@ -37,7 +37,7 @@
 
 
 
-- **Step 0. 홈 화면**
+- **Step 0. 홈**
     
     ![홈.PNG](./README-asset/홈.png)
 
