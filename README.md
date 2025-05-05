@@ -35,26 +35,37 @@
     
     ![회원가입.PNG](./README-asset/회원가입.png)
 
+
+
 - **Step 0. 홈 화면**
     
-    ![홈화면.PNG](./README-asset/홈 화면.png)
+    ![홈화면.PNG](./README-asset/홈.png)
+
+
 
 - **Step 1. 로그인**
     
     ![로그인.PNG](./README-asset/로그인.png)
     
 
+
 - **Step 2. 게임**
     
     ![게임.PNG](./README-asset/게임.png)
     
 
+
 - **Step 3. 저장 및 종료**
     
     ![저장.PNG](./README-asset/저장.png)
+
+
+
     
-- **시스템 다이어그램**
+- **전체 시스템 다이어그램**
+
     ![다이어그램.PNG](./README-asset/다이어그램.png)
+
 
 
 
